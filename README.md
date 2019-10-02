@@ -14,9 +14,9 @@ Webhook Python is a Python 3 module for interacting with various chat applicatio
 ## SHA256 CHECKSUMS
 
 ``` text
-29fecc82d25a71d9b3cd80c2bf4551e27c8b8e414c203b135b641fd4235d0c92  WhPy/discord.py
+61e9e7c854a1f903b4805304e0c9522d5eebf8973fe0c19631b01e84937d9e70  WhPy/discord.py
 2004c330f131d71e4f3556f2ce3b737208403789a8e30314d67c702805b43def  WhPy/__init__.py
-fcef4d4219d59b7878de6ef5b90cedb6a6602be8300a5d63a7fe2ddf204cf8e3  WhPy/slack.py
+0f0724f3bf27c1ef85faffd75cf8bfe75bc6931ecd00aa8ca568a6761e3112d3  WhPy/slack.py
 ```
 
 ## Code Examples
