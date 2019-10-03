@@ -66,7 +66,7 @@ from WhPy import discord
 # Discord Webhook URL
 webhook_url = "https://discordapp.com/api/webhooks/1234/567890"
 
-# Creats Discord Instance
+# Creates Discord Instance
 hook = discord.webhook(url=webhook_url)
 
 # Sets Message content as a Text-to-Speech Message
@@ -84,7 +84,7 @@ from WhPy import discord
 # Discord Webhook URL
 webhook_url = "https://discordapp.com/api/webhooks/1234/567890"
 
-# Creats Discord Instance
+# Creates Discord Instance
 hook = discord.webhook(url=webhook_url)
 
 # Sets Message Content
