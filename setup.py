@@ -14,7 +14,7 @@ setuptools.setup(
     url="https://github.com/MichaelCduBois/WhPy",
     packages=["WhPy"],
     install_requires=[
-        "requests==2.22.0"
+        "requests==2.31.0"
     ],
     classifiers=[
         "Development Status :: 3 - Alpha",
